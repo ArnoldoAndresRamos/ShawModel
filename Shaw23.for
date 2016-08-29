@@ -9096,4 +9096,3 @@ C     TO MATRIC POTENTIAL
       RETURN
 C****
       END
-

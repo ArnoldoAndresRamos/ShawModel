@@ -1,18 +1,18 @@
 0 0 0
-Input\TRIAL.SIT
-Input\TRIAL.WEA
-Input\TRIAL.MOI
-Input\TRIAL.TMP
+Input/TRIAL.SIT
+Input/TRIAL.WEA
+Input/TRIAL.MOI
+Input/TRIAL.TMP
  24  0 24 24  0 24 24  0  0  6  0  0  1
-Output\OUT.OUT
-Output\PROFIL.OUT
-Output\TEMP.OUT
-Output\MOIST.OUT
-Output\MATRIC.OUT
-Output\ENERGY.OUT
-Output\WATER.OUT
-Output\WFLOW.OUT
-Output\ROOTXT.OUT
-Output\FROST.OUT
-Output\SALTS.OUT
-Output\SOLUT.OUT
+Output/OUT.OUT
+Output/PROFIL.OUT
+Output/TEMP.OUT
+Output/MOIST.OUT
+Output/MATRIC.OUT
+Output/ENERGY.OUT
+Output/WATER.OUT
+Output/WFLOW.OUT
+Output/ROOTXT.OUT
+Output/FROST.OUT
+Output/SALTS.OUT
+Output/SOLUT.OUT
