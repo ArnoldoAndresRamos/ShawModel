@@ -1,5 +1,8 @@
               INSTRUCTIONS FOR RUNNING THE SHAW MODEL (Version 2.3)
-
+     
+https://www.ars.usda.gov/pacific-west-area/boise-id/northwest-watershed-research-center/docs/shaw-model/
+https://www.ars.usda.gov/ARSUserFiles/20520500/SHAW/ShawDocumentation.30.pdf
+https://www.researchgate.net/publication/262588150_Downward_longwave_radiation_estimates_for_clear-sky_conditions_over_northeast_Brazil
 
      Thank you for your interest in the SHAW Model.  I hope you find the model 
 useful for your particular application.  This ReadMe.txt file will hopefully get 
